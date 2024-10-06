@@ -1,0 +1,1137 @@
+<kml>
+  <xmlns>http://www.opengis.net/kml/2.2</xmlns>
+  <xmlns:gx>http://www.google.com/kml/ext/2.2</xmlns:gx>
+  <xmlns:kml>http://www.opengis.net/kml/2.2</xmlns:kml>
+  <xmlns:atom>http://www.w3.org/2005/Atom</xmlns:atom>
+  <Document>
+    <name>IRONMAN 70.3 Waco Bike KML_03.kml</name>
+    <StyleMap>
+      <id>msn_ylw-pushpin</id>
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#sn_ylw-pushpin</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#sh_ylw-pushpin</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style>
+      <id>sh_ylw-pushpin</id>
+      <IconStyle>
+        <scale>1.2</scale>
+      </IconStyle>
+      <BalloonStyle>
+		</BalloonStyle>
+      <LineStyle>
+        <color>cc00ff00</color>
+        <width>8</width>
+      </LineStyle>
+    </Style>
+    <Style>
+      <id>sn_ylw-pushpin</id>
+      <BalloonStyle>
+		</BalloonStyle>
+      <LineStyle>
+        <color>cc00ff00</color>
+        <width>8</width>
+      </LineStyle>
+    </Style>
+    <Placemark>
+      <name>LineString</name>
+      <styleUrl>#msn_ylw-pushpin</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+				-97.13222214744971,31.56300292614957,0 -97.13328638999982,31.56362884274219,0 -97.13418801101781,31.56440950749131,0 -97.13533594939621,31.56516769230439,0 -97.13652708713911,31.56601283031947,0 -97.1381193418618,31.56726645894815,0 -97.1390263695744,31.5679639192113,0 -97.13954047467013,31.56867333271337,0 -97.14071495226274,31.56964248487478,0 -97.14119869885944,31.57018210717285,0 -97.14250834013167,31.57032341672316,0 -97.14357591197945,31.57086395410233,0 -97.14463512155999,31.57181740418388,0 -97.1457651700062,31.5730016899749,0 -97.14628723989377,31.57358348486241,0 -97.1468790429179,31.57391702367675,0 -97.14727587786309,31.57386304945231,0 -97.14729643481158,31.57352434929138,0 -97.14688789443569,31.57361602699208,0 -97.1460389216824,31.5747909024097,0 -97.14534964346555,31.57580562653444,0 -97.14475220906394,31.57643451289742,0 -97.1431274067364,31.57463806250349,0 -97.14244028356238,31.57421152818374,0 -97.14172287339788,31.57311089213995,0 -97.14074889321991,31.57207205239189,0 -97.13995617557387,31.57167692025539,0 -97.13895250562352,31.57143407873668,0 -97.13833509017049,31.5712186744208,0 -97.13763828275259,31.57036962626838,0 -97.13617313877026,31.56887501092057,0 -97.13543796661988,31.56789637444883,0 -97.13437044533552,31.56685221868296,0 -97.13207497383486,31.56533654801696,0 -97.12970181701394,31.5640660947879,0 -97.1268664266301,31.56255259550949,0 -97.12432991373322,31.56143574757627,0 -97.12004113225937,31.56068989207617,0 -97.11599980454412,31.56025075464568,0 -97.11254677726913,31.55932654857718,0 -97.10987742228923,31.55807544462665,0 -97.10691130211295,31.55684229105426,0 -97.10614565677491,31.55665788804879,0 -97.10426170177584,31.55588492738855,0 -97.10252830095295,31.55558465569658,0 -97.10190290274329,31.55545275246249,0 -97.10175297276895,31.55498016080351,0 -97.10213039013745,31.55425684147707,0 -97.10254588661705,31.55357720298806,0 -97.10277211214462,31.55242531255983,0 -97.10304722835504,31.55068514463533,0 -97.1035976811565,31.5489166450965,0 -97.10413467235756,31.54788098713627,0 -97.10503814290675,31.54660326866268,0 -97.10680081656791,31.54492589915358,0 -97.11171343813675,31.54106123199099,0 -97.11423979354981,31.5389791386399,0 -97.11880193200551,31.53491910243985,0 -97.116978186784,31.53342209068255,0 -97.11634373209411,31.53268786443963,0 -97.11476760096136,31.53140476444914,0 -97.10840366292317,31.52618055327916,0 -97.11227691014952,31.52269165668778,0 -97.10736335009153,31.51476449919334,0 -97.10404339151634,31.50971757593303,0 -97.10215103961846,31.50687254690002,0 -97.10177810270395,31.50523611043583,0 -97.10150672919531,31.4996335467443,0 -97.09788084867982,31.49427705891186,0 -97.09718777047462,31.49260345704541,0 -97.09616630055969,31.49027927339083,0 -97.09527679869571,31.48876382830101,0 -97.0933637033023,31.48552707552849,0 -97.09343360502189,31.48414641907371,0 -97.09326545802175,31.48327837218303,0 -97.09244142744289,31.48237458113801,0 -97.09230709258131,31.47988075188933,0 -97.09221645266207,31.47328317753753,0 -97.09210594323449,31.47045907175618,0 -97.09240656917467,31.4691399389156,0 -97.09288781432662,31.46806586581278,0 -97.093908624436,31.46708784482239,0 -97.09331002793219,31.4667775889186,0 -97.08944061322707,31.46500112973044,0 -97.08672791570537,31.46335322055339,0 -97.08521500472699,31.4622161690801,0 -97.08288971173306,31.46044611665533,0 -97.08127565479488,31.45935356970677,0 -97.07962042065255,31.45809225702399,0 -97.07931108606488,31.45795912693545,0 -97.07481371904363,31.4599423795301,0 -97.07356473251075,31.45802719033512,0 -97.07286752287239,31.45713733243693,0 -97.07169572454092,31.45667275545202,0 -97.07083937419505,31.45558369540662,0 -97.06996632864775,31.45413302050715,0 -97.07095159594625,31.45368266133353,0 -97.07276915863193,31.4528815603536,0 -97.08305945307234,31.44795253865984,0 -97.08743875012112,31.4459361885546,0 -97.08834655096436,31.44538955635987,0 -97.08862237989851,31.44470754003267,0 -97.08953054096894,31.44380132280924,0 -97.09085025843376,31.44298118012714,0 -97.09447387800739,31.44119524348651,0 -97.10102012221627,31.43813388774885,0 -97.10212540421428,31.43761055913347,0 -97.10465300470776,31.44138339914738,0 -97.10620171856912,31.44389325341799,0 -97.10735125338603,31.4459183714643,0 -97.10800462497791,31.44683619483449,0 -97.10851039452268,31.44692301546907,0 -97.10780594717971,31.44361053067607,0 -97.10321201624249,31.42952335912153,0 -97.10119447216049,31.42331974824498,0 -97.09397641971141,31.40087792526534,0 -97.09203821071927,31.39428223309075,0 -97.0891243601729,31.38865251663712,0 -97.08375414342369,31.38023156472348,0 -97.08153704868408,31.37243151633189,0 -97.08241607793238,31.36314468999671,0 -97.08393492619254,31.34484044248959,0 -97.08600824213551,31.32842786731421,0 -97.0860391439908,31.32338137671172,0 -97.08405015816619,31.31276799237945,0 -97.08240681007302,31.30062267119641,0 -97.0815170554643,31.29344394785873,0 -97.08064628456802,31.28766470182515,0 -97.07902135721108,31.28281832133066,0 -97.07741856842659,31.27915439043198,0 -97.07611725200277,31.27680599778011,0 -97.07508880662441,31.27523385642653,0 -97.07471225112592,31.27540842345776,0 -97.07364321532479,31.2759940264173,0 -97.07147505263451,31.27701916830784,0 -97.07105188110756,31.27716608117356,0 -97.06849469232299,31.27847776209452,0 -97.06907464230201,31.2783452555874,0 -97.07029973460131,31.27771549112084,0 -97.07153924763031,31.27709674958329,0 -97.073409840503,31.27620859315852,0 -97.07401455916626,31.27589955738929,0 -97.07449308068041,31.27565976566878,0 -97.07516449633162,31.27565807330887,0 -97.07552640462208,31.27604551224254,0 -97.07591544013549,31.27670749800826,0 -97.07665109151678,31.27794757092377,0 -97.07746087331144,31.27947434970354,0 -97.07856264539369,31.28218938225554,0 -97.07939770882635,31.28431995088958,0 -97.07954630584641,31.28461233034145,0 -97.07997402327737,31.28528738847481,0 -97.08063436069715,31.28718102408195,0 -97.08103958674351,31.28875705297421,0 -97.08117610075239,31.29042787509552,0 -97.08155669997238,31.29449477308992,0 -97.08189299097553,31.29716023749227,0 -97.08222174836375,31.3001065988961,0 -97.084347349485,31.31307790528035,0 -97.08482887022312,31.31599640436409,0 -97.0852731419853,31.31932075693572,0 -97.08568666296357,31.32172313525711,0 -97.08599542615111,31.32392208867016,0 -97.08615373153968,31.32584827561694,0 -97.086087413432,31.3272455334204,0 -97.08585226142277,31.32862720071593,0 -97.08456570208246,31.34177945299331,0 -97.08404356638546,31.34685532514894,0 -97.08316181081352,31.35534534301634,0 -97.08288333009868,31.35818983631821,0 -97.08251238365527,31.36124906135445,0 -97.08223908972049,31.36391703766125,0 -97.08162466436622,31.369793152091,0 -97.08154075865858,31.37061442654996,0 -97.08152481845636,31.37163401326607,0 -97.08175991483368,31.37362120385099,0 -97.08244344691597,31.37593319228647,0 -97.08287492898022,31.37760841508517,0 -97.08300360329618,31.37796925624652,0 -97.08342420164541,31.37931389017283,0 -97.08390892415564,31.38027320670568,0 -97.08464177600507,31.38181265952603,0 -97.08900124649453,31.38863672782439,0 -97.09053877153545,31.39131013498908,0 -97.09189034350166,31.39450083562718,0 -97.09204695406457,31.39560845897623,0 -97.08731500982952,31.39804488816601,0 -97.07637516174584,31.40354498000817,0 -97.06757570735039,31.40814556887314,0 -97.06917610723109,31.41070107139203,0 -97.07119790653501,31.41370802088438,0 -97.0730042797725,31.4164878779469,0 -97.07402906874862,31.41799169796768,0 -97.07425265573117,31.41931114241863,0 -97.07448967955911,31.42000713644536,0 -97.07526607475469,31.4212451724846,0 -97.07489571240242,31.42155561237028,0 -97.06454721197409,31.42659622733249,0 -97.06441698865876,31.42672125172917,0 -97.06528654817295,31.42841110338582,0 -97.06700652380518,31.43093632878517,0 -97.06871048102789,31.43354079132437,0 -97.06972845116256,31.43511296749386,0 -97.07013428854661,31.43605270842937,0 -97.06992399732322,31.43696036113166,0 -97.06925466043968,31.43838665236385,0 -97.06796084658338,31.44125175038653,0 -97.06703852999345,31.44292370804254,0 -97.06684314396314,31.44450091844266,0 -97.06686329981203,31.44835590134568,0 -97.06765535830993,31.45122045731075,0 -97.06941323713248,31.45647567685362,0 -97.07344108470603,31.46870669279811,0 -97.07778264560517,31.48186973441936,0 -97.08058686081647,31.4905310876938,0 -97.08329500855424,31.49870729532266,0 -97.08604658323328,31.5069379263824,0 -97.08962055563372,31.51801813103966,0 -97.0892744645039,31.51876836012481,0 -97.08776791011427,31.5198403786472,0 -97.08615175589652,31.52135720450924,0 -97.08517138632574,31.52232490542732,0 -97.08306174419371,31.52466260515943,0 -97.08056293977528,31.52738062704807,0 -97.07749905725714,31.53069874163868,0 -97.0762365611119,31.53171428300653,0 -97.074589156017,31.53378351125776,0 -97.07438846687332,31.53469372825505,0 -97.0749525222294,31.53547388919984,0 -97.07581368285805,31.53526191555999,0 -97.07703649106749,31.53346332523697,0 -97.07866041900272,31.53113916044926,0 -97.08011908655526,31.52924775497101,0 -97.0821265604592,31.52700019653564,0 -97.08324771070872,31.52582633921764,0 -97.08482500745401,31.52400095531425,0 -97.08620243591614,31.52233350968348,0 -97.08695997615187,31.52195380920805,0 -97.08795037650857,31.52284349471936,0 -97.08883715604591,31.52385222896399,0 -97.08919325453347,31.52449144067937,0 -97.08982473799142,31.5245421916192,0 -97.09051825497025,31.52480351564646,0 -97.09353883159835,31.52746202173643,0 -97.09588051486232,31.52953151961065,0 -97.09774841435897,31.53115287368285,0 -97.10041038403624,31.53361882408219,0 -97.10279246798432,31.53548028169517,0 -97.10752373400193,31.53950724260708,0 -97.11010958062391,31.5417216382038,0 -97.11068832601399,31.5421452525702,0 -97.10847295125055,31.54387188428533,0 -97.10559091129122,31.54641621519683,0 -97.10436835169878,31.547947049575,0 -97.10357195886702,31.54967992701642,0 -97.10310156749792,31.55162772918978,0 -97.1024133217435,31.5544535904445,0 -97.102190181496,31.55561162897861,0 -97.10332209518332,31.55590213589002,0 -97.10459207968893,31.55634060255706,0 -97.10663215723118,31.55714774467028,0 -97.10880894200362,31.5579320561372,0 -97.1101588613347,31.55855218819358,0 -97.1122534747462,31.55933057132706,0 -97.11443463727709,31.56018110343573,0 -97.11541503339106,31.56040874906147,0 -97.11719549670703,31.56051053699804,0 -97.1190312491517,31.5607805011748,0 -97.12202496112832,31.56121591357216,0 -97.12483602525371,31.56176250338017,0 -97.12667848525471,31.5626758497483,0 -97.12739884012878,31.56231479510112,0 -97.12777677500931,31.56203694786808,0 -97.1282279933736,31.56161027509226,0 -97.1286620631424,31.56123822845972,0 -97.12897323817155,31.56100223691679,0 -97.12937015765065,31.56115553249395,0 -97.12996092590625,31.56145138264558,0 -97.13034834621818,31.56176046059126,0 -97.13092221285088,31.56215636245011,0 -97.13155408400661,31.56252140646903,0 
+			</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Start</name>
+      <Point>
+        <coordinates>-97.132222,31.563003,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Finish</name>
+      <Point>
+        <coordinates>-97.131554,31.562521,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>0.5 KM</name>
+      <Point>
+        <coordinates>-97.136294,31.565847,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1 KM</name>
+      <Point>
+        <coordinates>-97.139975,31.569032,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1.5 KM</name>
+      <Point>
+        <coordinates>-97.144187,31.571414,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2 KM</name>
+      <Point>
+        <coordinates>-97.146865,31.573647,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2.5 KM</name>
+      <Point>
+        <coordinates>-97.143912,31.575506,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3 KM</name>
+      <Point>
+        <coordinates>-97.140660,31.572028,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3.5 KM</name>
+      <Point>
+        <coordinates>-97.136653,31.569365,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4 KM</name>
+      <Point>
+        <coordinates>-97.133154,31.566049,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4.5 KM</name>
+      <Point>
+        <coordinates>-97.128761,31.563564,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5 KM</name>
+      <Point>
+        <coordinates>-97.124147,31.561404,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5.5 KM</name>
+      <Point>
+        <coordinates>-97.118964,31.560573,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>6 KM</name>
+      <Point>
+        <coordinates>-97.113816,31.559666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>6.5 KM</name>
+      <Point>
+        <coordinates>-97.109068,31.557739,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>7 KM</name>
+      <Point>
+        <coordinates>-97.104270,31.555888,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>7.5 KM</name>
+      <Point>
+        <coordinates>-97.102620,31.553198,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>8 KM</name>
+      <Point>
+        <coordinates>-97.103658,31.548800,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>8.5 KM</name>
+      <Point>
+        <coordinates>-97.106604,31.545113,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>9 KM</name>
+      <Point>
+        <coordinates>-97.110461,31.542046,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>9.5 KM</name>
+      <Point>
+        <coordinates>-97.114280,31.538944,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>10 KM</name>
+      <Point>
+        <coordinates>-97.117929,31.535696,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>10.5 KM</name>
+      <Point>
+        <coordinates>-97.116046,31.532446,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>11 KM</name>
+      <Point>
+        <coordinates>-97.112241,31.529331,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>11.5 KM</name>
+      <Point>
+        <coordinates>-97.108442,31.526212,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>12 KM</name>
+      <Point>
+        <coordinates>-97.111993,31.522947,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>12.5 KM</name>
+      <Point>
+        <coordinates>-97.110005,31.519027,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>13 KM</name>
+      <Point>
+        <coordinates>-97.107541,31.515051,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>13.5 KM</name>
+      <Point>
+        <coordinates>-97.104970,31.511126,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>14 KM</name>
+      <Point>
+        <coordinates>-97.102376,31.507210,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>14.5 KM</name>
+      <Point>
+        <coordinates>-97.101660,31.502797,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>15 KM</name>
+      <Point>
+        <coordinates>-97.100727,31.498481,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>15.5 KM</name>
+      <Point>
+        <coordinates>-97.098090,31.494587,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16 KM</name>
+      <Point>
+        <coordinates>-97.096215,31.490390,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.5 KM</name>
+      <Point>
+        <coordinates>-97.093860,31.486367,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>17 KM</name>
+      <Point>
+        <coordinates>-97.092433,31.482225,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>17.5 KM</name>
+      <Point>
+        <coordinates>-97.092278,31.477731,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>18 KM</name>
+      <Point>
+        <coordinates>-97.092215,31.473235,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>18.5 KM</name>
+      <Point>
+        <coordinates>-97.092564,31.468789,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>19 KM</name>
+      <Point>
+        <coordinates>-97.091436,31.465917,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>19.5 KM</name>
+      <Point>
+        <coordinates>-97.086993,31.463514,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>20 KM</name>
+      <Point>
+        <coordinates>-97.083029,31.460552,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>20.5 KM</name>
+      <Point>
+        <coordinates>-97.078904,31.458139,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>21 KM</name>
+      <Point>
+        <coordinates>-97.074489,31.459445,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>21.5 KM</name>
+      <Point>
+        <coordinates>-97.071238,31.456090,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>22 KM</name>
+      <Point>
+        <coordinates>-97.072308,31.453085,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>22.5 KM</name>
+      <Point>
+        <coordinates>-97.076913,31.450897,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>23 KM</name>
+      <Point>
+        <coordinates>-97.081509,31.448695,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>23.5 KM</name>
+      <Point>
+        <coordinates>-97.086133,31.446537,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>24 KM</name>
+      <Point>
+        <coordinates>-97.089880,31.443584,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>24.5 KM</name>
+      <Point>
+        <coordinates>-97.094375,31.441244,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>25 KM</name>
+      <Point>
+        <coordinates>-97.098995,31.439081,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>25.5 KM</name>
+      <Point>
+        <coordinates>-97.102967,31.438868,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>26 KM</name>
+      <Point>
+        <coordinates>-97.105526,31.442798,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>26.5 KM</name>
+      <Point>
+        <coordinates>-97.107965,31.446781,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>27 KM</name>
+      <Point>
+        <coordinates>-97.107610,31.443008,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>27.5 KM</name>
+      <Point>
+        <coordinates>-97.106197,31.438676,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>28 KM</name>
+      <Point>
+        <coordinates>-97.104784,31.434344,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>28.5 KM</name>
+      <Point>
+        <coordinates>-97.103371,31.430012,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>29 KM</name>
+      <Point>
+        <coordinates>-97.101962,31.425680,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>29.5 KM</name>
+      <Point>
+        <coordinates>-97.100559,31.421345,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>30 KM</name>
+      <Point>
+        <coordinates>-97.099164,31.417009,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>30.5 KM</name>
+      <Point>
+        <coordinates>-97.097770,31.412673,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>31 KM</name>
+      <Point>
+        <coordinates>-97.096375,31.408337,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>31.5 KM</name>
+      <Point>
+        <coordinates>-97.094980,31.404000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>32 KM</name>
+      <Point>
+        <coordinates>-97.093618,31.399657,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>32.5 KM</name>
+      <Point>
+        <coordinates>-97.092336,31.395296,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>33 KM</name>
+      <Point>
+        <coordinates>-97.090404,31.391125,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>33.5 KM</name>
+      <Point>
+        <coordinates>-97.088120,31.387077,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>34 KM</name>
+      <Point>
+        <coordinates>-97.085601,31.383128,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>34.5 KM</name>
+      <Point>
+        <coordinates>-97.083423,31.379066,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>35 KM</name>
+      <Point>
+        <coordinates>-97.082181,31.374697,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>35.5 KM</name>
+      <Point>
+        <coordinates>-97.081741,31.370273,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>36 KM</name>
+      <Point>
+        <coordinates>-97.082166,31.365791,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>36.5 KM</name>
+      <Point>
+        <coordinates>-97.082569,31.361308,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>37 KM</name>
+      <Point>
+        <coordinates>-97.082941,31.356822,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>37.5 KM</name>
+      <Point>
+        <coordinates>-97.083313,31.352337,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>38 KM</name>
+      <Point>
+        <coordinates>-97.083685,31.347851,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>38.5 KM</name>
+      <Point>
+        <coordinates>-97.084121,31.343371,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>39 KM</name>
+      <Point>
+        <coordinates>-97.084685,31.338900,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>39.5 KM</name>
+      <Point>
+        <coordinates>-97.085250,31.334430,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>40 KM</name>
+      <Point>
+        <coordinates>-97.085815,31.329959,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>40.5 KM</name>
+      <Point>
+        <coordinates>-97.086026,31.325471,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>41 KM</name>
+      <Point>
+        <coordinates>-97.085594,31.321005,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>41.5 KM</name>
+      <Point>
+        <coordinates>-97.084762,31.316565,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>42 KM</name>
+      <Point>
+        <coordinates>-97.083963,31.312121,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>42.5 KM</name>
+      <Point>
+        <coordinates>-97.083358,31.307654,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>43 KM</name>
+      <Point>
+        <coordinates>-97.082754,31.303187,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>43.5 KM</name>
+      <Point>
+        <coordinates>-97.082171,31.298718,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>44 KM</name>
+      <Point>
+        <coordinates>-97.081617,31.294247,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>44.5 KM</name>
+      <Point>
+        <coordinates>-97.080966,31.289785,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>45 KM</name>
+      <Point>
+        <coordinates>-97.079886,31.285397,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>45.5 KM</name>
+      <Point>
+        <coordinates>-97.078278,31.281119,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>46 KM</name>
+      <Point>
+        <coordinates>-97.076217,31.276986,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>46.5 KM</name>
+      <Point>
+        <coordinates>-97.072574,31.276500,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>47 KM</name>
+      <Point>
+        <coordinates>-97.069042,31.278353,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>47.5 KM</name>
+      <Point>
+        <coordinates>-97.073601,31.276111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>48 KM</name>
+      <Point>
+        <coordinates>-97.076849,31.278321,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>48.5 KM</name>
+      <Point>
+        <coordinates>-97.078695,31.282527,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>49 KM</name>
+      <Point>
+        <coordinates>-97.080482,31.286744,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>49.5 KM</name>
+      <Point>
+        <coordinates>-97.081246,31.291177,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>50 KM</name>
+      <Point>
+        <coordinates>-97.081703,31.295657,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>50.5 KM</name>
+      <Point>
+        <coordinates>-97.082226,31.300131,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>51 KM</name>
+      <Point>
+        <coordinates>-97.082955,31.304584,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>51.5 KM</name>
+      <Point>
+        <coordinates>-97.083685,31.309037,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>52 KM</name>
+      <Point>
+        <coordinates>-97.084415,31.313490,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>52.5 KM</name>
+      <Point>
+        <coordinates>-97.085090,31.317949,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>53 KM</name>
+      <Point>
+        <coordinates>-97.085783,31.322406,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>53.5 KM</name>
+      <Point>
+        <coordinates>-97.086104,31.326887,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>54 KM</name>
+      <Point>
+        <coordinates>-97.085585,31.331359,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>54.5 KM</name>
+      <Point>
+        <coordinates>-97.085147,31.335840,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>55 KM</name>
+      <Point>
+        <coordinates>-97.084708,31.340321,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>55.5 KM</name>
+      <Point>
+        <coordinates>-97.084255,31.344801,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>56 KM</name>
+      <Point>
+        <coordinates>-97.083792,31.349280,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>56.5 KM</name>
+      <Point>
+        <coordinates>-97.083327,31.353759,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>57 KM</name>
+      <Point>
+        <coordinates>-97.082877,31.358239,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>57.5 KM</name>
+      <Point>
+        <coordinates>-97.082362,31.362714,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>58 KM</name>
+      <Point>
+        <coordinates>-97.081897,31.367193,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>58.5 KM</name>
+      <Point>
+        <coordinates>-97.081530,31.371676,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>59 KM</name>
+      <Point>
+        <coordinates>-97.082483,31.376086,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>59.5 KM</name>
+      <Point>
+        <coordinates>-97.083964,31.380388,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>60 KM</name>
+      <Point>
+        <coordinates>-97.086301,31.384411,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>60.5 KM</name>
+      <Point>
+        <coordinates>-97.088823,31.388358,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>61 KM</name>
+      <Point>
+        <coordinates>-97.091017,31.392440,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>61.5 KM</name>
+      <Point>
+        <coordinates>-97.090854,31.396223,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>62 KM</name>
+      <Point>
+        <coordinates>-97.086337,31.398537,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>62.5 KM</name>
+      <Point>
+        <coordinates>-97.081798,31.400819,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>63 KM</name>
+      <Point>
+        <coordinates>-97.077258,31.403101,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>63.5 KM</name>
+      <Point>
+        <coordinates>-97.072757,31.405437,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>64 KM</name>
+      <Point>
+        <coordinates>-97.068264,31.407786,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>64.5 KM</name>
+      <Point>
+        <coordinates>-97.069707,31.411490,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>65 KM</name>
+      <Point>
+        <coordinates>-97.072300,31.415404,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>65.5 KM</name>
+      <Point>
+        <coordinates>-97.074313,31.419489,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>66 KM</name>
+      <Point>
+        <coordinates>-97.072749,31.422601,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>66.5 KM</name>
+      <Point>
+        <coordinates>-97.068173,31.424830,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>67 KM</name>
+      <Point>
+        <coordinates>-97.064778,31.427424,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>67.5 KM</name>
+      <Point>
+        <coordinates>-97.067291,31.431371,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>68 KM</name>
+      <Point>
+        <coordinates>-97.069816,31.435315,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>68.5 KM</name>
+      <Point>
+        <coordinates>-97.068728,31.439552,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>69 KM</name>
+      <Point>
+        <coordinates>-97.066937,31.443746,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>69.5 KM</name>
+      <Point>
+        <coordinates>-97.066863,31.448239,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>70 KM</name>
+      <Point>
+        <coordinates>-97.068117,31.452601,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>70.5 KM</name>
+      <Point>
+        <coordinates>-97.069561,31.456926,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>71 KM</name>
+      <Point>
+        <coordinates>-97.070987,31.461255,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>71.5 KM</name>
+      <Point>
+        <coordinates>-97.072413,31.465584,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>72 KM</name>
+      <Point>
+        <coordinates>-97.073839,31.469913,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>72.5 KM</name>
+      <Point>
+        <coordinates>-97.075267,31.474242,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>73 KM</name>
+      <Point>
+        <coordinates>-97.076694,31.478570,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>73.5 KM</name>
+      <Point>
+        <coordinates>-97.078116,31.482900,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>74 KM</name>
+      <Point>
+        <coordinates>-97.079520,31.487235,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>74.5 KM</name>
+      <Point>
+        <coordinates>-97.080930,31.491567,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>75 KM</name>
+      <Point>
+        <coordinates>-97.082363,31.495895,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>75.5 KM</name>
+      <Point>
+        <coordinates>-97.083801,31.500221,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>76 KM</name>
+      <Point>
+        <coordinates>-97.085247,31.504545,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>76.5 KM</name>
+      <Point>
+        <coordinates>-97.086671,31.508875,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>77 KM</name>
+      <Point>
+        <coordinates>-97.088070,31.513210,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>77.5 KM</name>
+      <Point>
+        <coordinates>-97.089468,31.517546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>78 KM</name>
+      <Point>
+        <coordinates>-97.086563,31.520971,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>78.5 KM</name>
+      <Point>
+        <coordinates>-97.083242,31.524462,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>79 KM</name>
+      <Point>
+        <coordinates>-97.079989,31.528002,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>79.5 KM</name>
+      <Point>
+        <coordinates>-97.076590,31.531430,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>80 KM</name>
+      <Point>
+        <coordinates>-97.074792,31.535251,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>80.5 KM</name>
+      <Point>
+        <coordinates>-97.077872,31.532267,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>81 KM</name>
+      <Point>
+        <coordinates>-97.080773,31.528515,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>81.5 KM</name>
+      <Point>
+        <coordinates>-97.083998,31.524958,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>82 KM</name>
+      <Point>
+        <coordinates>-97.087380,31.522331,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>82.5 KM</name>
+      <Point>
+        <coordinates>-97.091036,31.525259,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>83 KM</name>
+      <Point>
+        <coordinates>-97.094704,31.528491,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>83.5 KM</name>
+      <Point>
+        <coordinates>-97.098367,31.531726,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>84 KM</name>
+      <Point>
+        <coordinates>-97.102075,31.534920,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>84.5 KM</name>
+      <Point>
+        <coordinates>-97.105837,31.538072,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>85 KM</name>
+      <Point>
+        <coordinates>-97.109564,31.541254,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>85.5 KM</name>
+      <Point>
+        <coordinates>-97.107961,31.544324,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>86 KM</name>
+      <Point>
+        <coordinates>-97.104542,31.547730,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>86.5 KM</name>
+      <Point>
+        <coordinates>-97.103010,31.552004,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>87 KM</name>
+      <Point>
+        <coordinates>-97.103113,31.555848,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>87.5 KM</name>
+      <Point>
+        <coordinates>-97.107957,31.557625,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>88 KM</name>
+      <Point>
+        <coordinates>-97.112739,31.559520,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>88.5 KM</name>
+      <Point>
+        <coordinates>-97.117798,31.560599,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>89 KM</name>
+      <Point>
+        <coordinates>-97.122989,31.561403,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>89.5 KM</name>
+      <Point>
+        <coordinates>-97.127713,31.562084,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
