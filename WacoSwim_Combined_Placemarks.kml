@@ -1,0 +1,40 @@
+<kml>
+  <xmlns>http://www.opengis.net/kml/2.2</xmlns>
+  <Document>
+    <Placemark>
+      <LineString>
+        <coordinates>-97.14263459854266,31.57162521418291,0 -97.14265577108979,31.57224531204515,0 -97.14162548874238,31.57144095708896,0 -97.14055914796552,31.57054342243281,0 -97.13723764625369,31.5675641421494,0 -97.13628631153287,31.5667059161435,0 -97.12822864285933,31.56124410613049,0 -97.12826007810446,31.56100212295565,0</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Start</name>
+      <Point>
+        <coordinates>-97.142635,31.571625,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Finish</name>
+      <Point>
+        <coordinates>-97.128260,31.561002,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>0.5 KM</name>
+      <Point>
+        <coordinates>-97.139421,31.569522,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1 KM</name>
+      <Point>
+        <coordinates>-97.135721,31.566323,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1.5 KM</name>
+      <Point>
+        <coordinates>-97.131591,31.563523,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
